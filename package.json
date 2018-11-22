@@ -1,0 +1,24 @@
+{
+  "name": "form-cauldron",
+  "version": "1.0.0",
+  "description": "A composable library for validation user input in a user and developer friendly way",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node_modules/.bin/jest"
+  },
+  "keywords": [
+    "form",
+    "validation",
+    "user-friendly",
+    "input"
+  ],
+  "author": "bjodol",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.1.6"
+  }
+}
